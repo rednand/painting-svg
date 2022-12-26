@@ -47,7 +47,7 @@ function App() {
               display: "flex",
               justifyContent: "center",
               flexDirection: "column",
-              width: "30%",
+              width: "20%",
             }}
           >
             <p>Clique nos blocos pretos e escolha as cores para pintar</p>
@@ -286,7 +286,7 @@ function App() {
               display: "flex",
               justifyContent: "center",
               flexDirection: "column",
-              width: "30%",
+              width: "20%",
             }}
           >
             <p>Clique nos blocos pretos e escolha as cores para pintar</p>
